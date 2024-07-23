@@ -1,4 +1,4 @@
-package AutomationVersion.AutomationVersion;
+package AutomationQA_Fork.AutomationQA_Fork;
 
 /**
  * Hello world!
